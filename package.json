@@ -1,0 +1,14 @@
+{
+  "name": "moneypro",
+  "version": "0.1.0",
+  "description": "Personal finance application.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron"
+  },
+  "author": "ShakerMade",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.5"
+  }
+}
